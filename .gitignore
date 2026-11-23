@@ -1,0 +1,9 @@
+.venv/
+data/raw/
+data/processed/
+models/
+*.pdf
+__pycache__/
+*.pyc
+.idea/
+.DS_Store
